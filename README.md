@@ -1,1 +1,1 @@
-# .github
+# Team ARA readme
