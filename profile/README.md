@@ -29,7 +29,7 @@
 |------|-----------|
 | Backend | SpringBoot, Docker |
 | Frontend | React, Emotion, TypeScript, Recoil |
-| Infra | Docker, MySQL |
+| Infra | Docker, Postgresql |
 | 협업 툴 | GitHub, Figma, Notion |
 
 ---
