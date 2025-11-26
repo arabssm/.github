@@ -10,8 +10,8 @@
 | [이하은](https://github.com/randirao) | CEO, BE |
 | [김예빈](https://github.com/dpqlsn) | CTO, FE, Design |
 | [심현진](https://github.com/hxeonxins) | BE |
-| [김현우](https://github.com/HyunwooKiim) | BE |
-| [이효준](https://github.com/123isi) | FE |
+| [김현우](https://github.com/HyunwooKiim) | BE, Infra |
+| [이효준](https://github.com/123isi) | FE, BE |
 
 ---
 
