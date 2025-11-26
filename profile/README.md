@@ -27,16 +27,8 @@
 
 | 분야 | 사용 기술 |
 |------|-----------|
-| Backend | SpringBoot, Docker |
+| Backend | SpringBoot, Docker, Postgresql |
 | Frontend | React, Emotion, TypeScript, Recoil |
-| Infra | Docker, Postgresql |
+| Infra | AWS, CloudWatch, GitHub Actions |
 | 협업 툴 | GitHub, Figma, Notion |
 
----
-
-## 🌱 주요 기능
-
-- 공지사항 등록, 수정, 조회
-- 물품 신청 및 승인 관리
-- 팀 스페이스 초대 및 조회
-- 이미지 업로드 및 삭제
